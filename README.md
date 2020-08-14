@@ -31,12 +31,12 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+  
+This project had me get familiar with some basic built in functions for Andriod OS.  Some of these functions felt abstracted away through boilerplate so I had to take a deep dive in order to understand what was going on behind the scenes.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] []
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
